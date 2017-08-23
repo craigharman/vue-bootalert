@@ -1,0 +1,25 @@
+{
+    "name": "vue-bootalert",
+    "version": "0.0.1",
+    "description": "VueJS component for generating Bootstrap alerts",
+    "main": "BootAlert.vue",
+    "scripts": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/craigharman/vue-bootalert"
+    },
+    "keywords": [
+      "VueJs",
+      "alert",
+      "bootstrap",
+      "message"
+    ],
+    "author": "craig@harmonic.com.au",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/craigharman/vue-bootalert/issues"
+    },
+    "homepage": "https://github.com/craigharman/vue-bootalert#readme"
+  }
+  
