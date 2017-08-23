@@ -12,6 +12,9 @@ npm install vue-bootalert --save
 var VueBootalert = require('vue-bootalert')
 Vue.use(VueBootalert)
 ```
+
+Note: You will need to install bootstrap css separately.
+
 ## Usage
 
 Add as a component:
@@ -45,6 +48,8 @@ You can configure the alert with the following parameters:
 <bootalert type="danger" message="test message 1 (dismisable)" shouldDisappear="false" alertDismissable></bootalert>
 <bootalert type="success" message="test message 2"></bootalert>
 ```
+Test message one will display red error/warning message and can be dismissed manually by the user.
+Test message 2 will display green success message and will disappear automatically after 5 seconds.
 
 ### Dynamically creating alerts
 
